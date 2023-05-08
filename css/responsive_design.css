@@ -1,0 +1,63 @@
+@media screen and (max-width:433px){
+    section.intro p{
+        text-align: justify;
+    }
+   
+    aside.interstellarImage{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    aside.interstellarImage img{
+        float: none;
+        margin: 0px 0px 20px 0px;
+    }
+
+    section.timeDilation p{
+        text-align: justify;
+    }
+
+    aside.concept{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    aside.concept img{
+        float: none;
+        margin: 0px 0px 20px 0px;
+    }
+
+    section.designingBlackHole p{
+        text-align: justify;
+    }
+
+    section.timeDilation p{
+        text-align: justify;
+    }
+
+    aside.tesseract{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    aside.tesseract img{
+        float: none;
+        margin: 0px 0px 20px 0px;
+    }
+
+    section.tesseract p{
+        text-align: justify;
+    }
+
+    section.footer p{
+        text-align: justify;
+        width: 87%;
+        margin: auto;
+    }
+}

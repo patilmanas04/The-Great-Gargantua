@@ -1,11 +1,12 @@
 /* universal styles */
 
 body{
-    background: url("/images/background-image.jpg");
+    background: url("../images/background-image.jpg");
     font-family: 'Montserrat', sans-serif;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 *{
