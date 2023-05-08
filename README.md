@@ -34,13 +34,16 @@ By leveraging the power of HTML and CSS, this web page provides an engaging and 
 To install and set up The Great Gargantua Web Page locally, follow these steps:
 
 1. Clone the repository by running the following command in your terminal or command prompt:
-```git clone https://github.com/patilmanas04/The-Great-Gargantua```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```git clone https://github.com/patilmanas04/The-Great-Gargantua```
 
 2. Navigate to the project's directory:
-```cd The-Great-Gargantua```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```cd The-Great-Gargantua```
 
 3. Open the index.html file in your preferred web browser.
-```open index.html```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```open index.html```
 
 Alternatively, you can simply double-click the index.html file to open it in your default web browser.
 
